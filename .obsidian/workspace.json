@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "試し"
             }
+          },
+          {
+            "id": "637c48db50f6fe71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "最初の始まり.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最初の始まり"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +195,13 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f22aaa38956ade6",
+  "active": "637c48db50f6fe71",
   "lastOpenFiles": [
-    "試し.md"
+    "試し.md",
+    "最初の始まり.md"
   ]
 }
